@@ -12,4 +12,3 @@ Pythonで作成した、
 - Python基礎（クラス設計 / 状態管理）
 
 ## Run
-python main.py
